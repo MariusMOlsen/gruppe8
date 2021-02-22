@@ -1,0 +1,6 @@
+åpnet "/var/lib/php/sessions" for alle (chmod 777)
+
+laget bruker til min ip adresse
+        mysql -u root -p
+        create user 'root@158.39.174.184' identified by 'p5794RGF%';
+        grant all privileges on *.* to 'root@158.39.174.184';

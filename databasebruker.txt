@@ -1,0 +1,4 @@
+BRUKERNAVN: web@localhost
+PASSORD: p5794RGF%
+
+Har tilatelse til INSERT, SELECT, UPDATE, DELETE på alle tabeller i gruppe7
