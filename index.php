@@ -21,7 +21,7 @@ if (isset($_SERVER['HTTP_COOKIE'])) {
 
     </head>
     <body>
-        <h1>Prosjekt tittel sapit</h1>
+        <h1>Prosjekt tittel</h1>
         <section id="registrerStudent">
             <h2>Registrer deg som student</h2>
             <form action="registrer/student.php" method="post">
